@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**adamazizi10/adamazizi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am adam.
 
 I like all areas of software especially web development.
