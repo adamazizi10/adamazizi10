@@ -13,6 +13,6 @@ I did an internship at Salumatics as a Software Engineer where I learned a lot a
 Feel free to reach out to me.
 
 # 📫 Contact Me:
-LinkedIn: https://www.linkedin.com/in/adamazizi/
-Youtube: https://www.youtube.com/channel/UCynnrKNESe3gktlbUoLayHQ
-Discord: Azizi#9780
+* LinkedIn: https://www.linkedin.com/in/adamazizi/
+* Youtube: https://www.youtube.com/channel/UCynnrKNESe3gktlbUoLayHQ
+* Discord: Azizi#9780
