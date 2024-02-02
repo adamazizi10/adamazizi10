@@ -4,7 +4,7 @@ Hi 👋 My name is Adam Azizi
 Software Developer
 ------------------
 
-* 🌍  I'm based in Toronto, Ontario with hands-on development experience at PMC, Tetra, and Salumatics
+* 🌍  I'm based in Greater Toronto Area, Mississauga, Ontario with hands-on development experience at PMC, Tetra, and Salumatics
 * 🖥️  See my portfolio at [adamazizi.com](http://adamazizi.com)
 * ✉️  You can contact me at [adamazizi101@gmail.com](mailto:adamazizi101@gmail.com)
 * 🤝  I'm open to collaborating on Full-Stack Web Development Projects
