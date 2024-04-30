@@ -4,12 +4,12 @@ Hi 👋 My name is Adam Azizi
 Software Developer
 ------------------
 
-* 🌍 I'm based in Greater Toronto Area, Mississauga, Ontario
-* 🖥 I have hands-on development experience at WISEST TMU, Tetra, and Salumatics
-* 🔗 See my portfolio at [adamazizi.live](http://adamazizi.live)
-* ✉️  You can contact me at [adamazizi101@gmail.com](mailto:adamazizi101@gmail.com)
-* 🤝 I'm open to collaborating on Full-Stack Web Development Projects
-* ⚡  Outside coding I play Soccer and Basketball. I also have two cats
+* 🌍  I'm based in Greater Toronto Area, Mississauga, Ontario
+* 🖥  I have hands-on development experience at WISEST TMU, Tetra, and Salumatics
+* 🔗  See my portfolio at [adamazizi.live](http://adamazizi.live)
+* ✉️   You can contact me at [adamazizi101@gmail.com](mailto:adamazizi101@gmail.com)
+* 🤝  I'm open to collaborating on Full-Stack Web Development Projects
+* ⚡   Outside coding I play Soccer and Basketball. I also have two cats
 
 ## Skills
 <p align="left">
