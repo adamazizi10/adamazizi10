@@ -5,6 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Greater Toronto Area, Mississauga, Ontario
+* ✅  I am a Software Engineer who recently graduated with a Bachelor's Degree in Software Engineering
 * 🖥  I have hands-on development experience at WISEST TMU, Tetra, and Salumatics
 * 🔗  See my portfolio at [adamazizi.live](http://adamazizi.live)
 * ✉️   You can contact me at [adamazizi101@gmail.com](mailto:adamazizi101@gmail.com)
