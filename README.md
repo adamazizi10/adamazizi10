@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Greater Toronto Area, Mississauga, Ontario
-* ✅  I recently graduated with a Bachelor's Degree in Software Engineering from Toronto Metropolitan University (April 2024)
+* ✅  I recently graduated with a Bachelor's Degree in Software Engineering from Toronto Metropolitan University (May 2024)
 * 🖥  I have hands-on development experience at WISEST AI, Tetra, and Salumatics
 * ✉️   You can contact me at [adamazizi101@gmail.com](mailto:adamazizi101@gmail.com)
 * 🤝  I'm open to collaborating on Full-Stack Web Development Projects
