@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Greater Toronto Area, Mississauga, Ontario
 * ✅  I have graduated with a Bachelor's Degree in Software Engineering from Toronto Metropolitan University
-* 🖥  I have hands-on development experience at LS3, VeltekAI, Tetra, and Salumatics
+* 🖥  I have hands-on development experience at TMU LS3 Lab, VeltekAI, Tetra, and Salumatics
 * ✉️   You can contact me at [adamazizi101@gmail.com](mailto:adamazizi101@gmail.com)
 * ⚡   Outside coding I play Soccer and Basketball. I also have two cats
 
